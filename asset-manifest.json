@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/EmersonJSC/bin2dec.github.io.git/static/css/main.b81dcf8f.chunk.css",
+    "main.js": "/EmersonJSC/bin2dec.github.io.git/static/js/main.3c4a1bbd.chunk.js",
+    "main.js.map": "/EmersonJSC/bin2dec.github.io.git/static/js/main.3c4a1bbd.chunk.js.map",
+    "runtime-main.js": "/EmersonJSC/bin2dec.github.io.git/static/js/runtime-main.361c2948.js",
+    "runtime-main.js.map": "/EmersonJSC/bin2dec.github.io.git/static/js/runtime-main.361c2948.js.map",
+    "static/css/2.41953c31.chunk.css": "/EmersonJSC/bin2dec.github.io.git/static/css/2.41953c31.chunk.css",
+    "static/js/2.85fa8cf3.chunk.js": "/EmersonJSC/bin2dec.github.io.git/static/js/2.85fa8cf3.chunk.js",
+    "static/js/2.85fa8cf3.chunk.js.map": "/EmersonJSC/bin2dec.github.io.git/static/js/2.85fa8cf3.chunk.js.map",
+    "static/js/3.1ba61216.chunk.js": "/EmersonJSC/bin2dec.github.io.git/static/js/3.1ba61216.chunk.js",
+    "static/js/3.1ba61216.chunk.js.map": "/EmersonJSC/bin2dec.github.io.git/static/js/3.1ba61216.chunk.js.map",
+    "index.html": "/EmersonJSC/bin2dec.github.io.git/index.html",
+    "static/css/2.41953c31.chunk.css.map": "/EmersonJSC/bin2dec.github.io.git/static/css/2.41953c31.chunk.css.map",
+    "static/css/main.b81dcf8f.chunk.css.map": "/EmersonJSC/bin2dec.github.io.git/static/css/main.b81dcf8f.chunk.css.map",
+    "static/js/2.85fa8cf3.chunk.js.LICENSE.txt": "/EmersonJSC/bin2dec.github.io.git/static/js/2.85fa8cf3.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.361c2948.js",
+    "static/css/2.41953c31.chunk.css",
+    "static/js/2.85fa8cf3.chunk.js",
+    "static/css/main.b81dcf8f.chunk.css",
+    "static/js/main.3c4a1bbd.chunk.js"
+  ]
+}
