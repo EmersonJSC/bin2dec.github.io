@@ -27,8 +27,7 @@ const Index = () =>{
     }
 
     return(
-        <nav className="hero is-fullheight">
-            <div className="hero-body robotofont">
+        <nav className="container is-fullheight robotofont">
                 <div  className="container has-text-centered">
                     {/* Title */}
                     <h1 className="is-size-2 has-text-weight-bold textAliceBlue robotofont">Bin2Dec</h1>
@@ -58,7 +57,6 @@ const Index = () =>{
                         
                     </div>
                 </div>
-            </div>
         </nav>
     )
 }
